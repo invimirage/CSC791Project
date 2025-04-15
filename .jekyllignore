@@ -1,6 +1,3 @@
-ros-carla-bridge/install/
-ros-carla-bridge/build/
-ros-carla-bridge/log/
-lidar_to_carla/install/
-lidar_to_carla/build/
-lidar_to_carla/log/
+ros-carla-bridge/*
+lidar_to_carla/*
+
