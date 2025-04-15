@@ -1,0 +1,4 @@
+[submodule "ros-carla-bridge/src/carla_ros"]
+	path = ros-carla-bridge/src/carla_ros
+	url = https://github.com/invimirage/carla_ros.git
+	branch = humble-carla-0.9.14
