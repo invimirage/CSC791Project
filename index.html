@@ -81,26 +81,32 @@
 </head>
 <body>
 
-    <!-- Sidebar with PDF links -->
+<!-- Sidebar with PDF links -->
 <div class="sidebar">
     <h2>Resources</h2>
     <ul>
-        <li><a href="proposal.pdf" target="pdf-frame">Proposal</a></li>
-        <li><a href="report1.pdf" target="pdf-frame">Report 1</a></li>
-        <li><a href="report3.pdf" target="pdf-frame">Final Report</a></li>
-        <li><a href="README.md" target="pdf-frame">README</a></li>
+        <li><a href="proposal.pdf" target="pdf-frame" onclick="setDocumentTitle('Proposal')">Proposal</a></li>
+        <li><a href="report1.pdf" target="pdf-frame" onclick="setDocumentTitle('Report 1')">Report 1</a></li>
+        <li><a href="report3.pdf" target="pdf-frame" onclick="setDocumentTitle('Final Report')">Final Report</a></li>
+        <li><a href="README.md" target="pdf-frame" onclick="setDocumentTitle('README')">README</a></li>
         <li><a href="Demo.mp4" target="_blank">Video Demo</a></li>
     </ul>
 </div>
 
 <!-- Main content area -->
 <div class="content">
-    <h1>Project: Using ROS2-CARLA Bridge to Integrate LiDAR into CARLA</h1>
+    <h1 id="document-title">Proposal</h1>
     <div class="author-info">
         Author: Ruifeng Zhang | Unity ID: rzhang38
     </div>
-    <iframe name="pdf-frame" src="report3.pdf"></iframe>
+    <iframe name="pdf-frame" src="proposal.pdf"></iframe>
 </div>
+
+<script>
+    function setDocumentTitle(title) {
+        document.getElementById('document-title').innerText = title;
+    }
+</script>
 
 </body>
 </html>
