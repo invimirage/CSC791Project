@@ -1,3 +1,7 @@
-ros-carla-bridge/*
-lidar_to_carla/*
-
+*
+!index.html
+!*.css
+!*.js
+!*.pdf
+!*.mp4
+!README.md
