@@ -53,29 +53,30 @@
         }
         .content {
             flex: 1;
-            padding: 40px;
+            padding: 20px;
             display: flex;
             flex-direction: column;
-            align-items: center;
-            justify-content: center;
+            align-items: stretch;
+            justify-content: flex-start;
             text-align: center;
+            height: 100vh;
         }
         .content h1 {
             font-size: 28px;
             color: #2c3e50;
+            margin: 0 0 10px 0;
         }
         .author-info {
             font-size: 18px;
             font-weight: bold;
-            margin-top: 5px;
+            margin-bottom: 10px;
             color: #34495e;
         }
         iframe {
-            width: 90%;
-            height: 600px;
+            flex-grow: 1;
             border: 1px solid #ccc;
             background: white;
-            margin-top: 20px;
+            width: 100%;
         }
     </style>
 </head>
@@ -88,7 +89,7 @@
         <li><a href="proposal.pdf" target="pdf-frame" onclick="setDocumentTitle('Proposal')">Proposal</a></li>
         <li><a href="report1.pdf" target="pdf-frame" onclick="setDocumentTitle('Report 1')">Report 1</a></li>
         <li><a href="report3.pdf" target="pdf-frame" onclick="setDocumentTitle('Final Report')">Final Report</a></li>
-        <li><a href="README.md" target="pdf-frame" onclick="setDocumentTitle('README')">README</a></li>
+        <li><a href="README.html" target="pdf-frame" onclick="setDocumentTitle('README')">README</a></li>
         <li><a href="Demo.mp4" target="_blank">Video Demo</a></li>
     </ul>
 </div>
