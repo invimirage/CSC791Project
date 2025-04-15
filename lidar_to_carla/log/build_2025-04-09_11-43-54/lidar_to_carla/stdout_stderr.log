@@ -1,0 +1,7 @@
+/home/rfzhang/ROS-Carla/ros-carla/lib/python3.10/site-packages/setuptools/dist.py:723: UserWarning: Usage of dash-separated 'script-dir' will not be supported in future versions. Please use the underscore name 'script_dir' instead
+  warnings.warn(
+running develop
+running egg_info
+writing manifest file 'lidar_to_carla.egg-info/SOURCES.txt'
+running build_ext
+running symlink_data

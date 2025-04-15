@@ -1,0 +1,13 @@
+running develop
+running egg_info
+creating src/carla_waypoint_publisher.egg-info
+writing manifest file 'src/carla_waypoint_publisher.egg-info/SOURCES.txt'
+writing manifest file 'src/carla_waypoint_publisher.egg-info/SOURCES.txt'
+running build_ext
+running symlink_data
+creating /home/rfzhang/ROS-Carla/CSC791Project/ros-carla-bridge/install/carla_waypoint_publisher/share/ament_index
+creating /home/rfzhang/ROS-Carla/CSC791Project/ros-carla-bridge/install/carla_waypoint_publisher/share/ament_index/resource_index
+creating /home/rfzhang/ROS-Carla/CSC791Project/ros-carla-bridge/install/carla_waypoint_publisher/share/ament_index/resource_index/packages
+symbolically linking /home/rfzhang/ROS-Carla/CSC791Project/ros-carla-bridge/build/carla_waypoint_publisher/resource/carla_waypoint_publisher -> /home/rfzhang/ROS-Carla/CSC791Project/ros-carla-bridge/install/carla_waypoint_publisher/share/ament_index/resource_index/packages
+symbolically linking /home/rfzhang/ROS-Carla/CSC791Project/ros-carla-bridge/build/carla_waypoint_publisher/package.xml -> /home/rfzhang/ROS-Carla/CSC791Project/ros-carla-bridge/install/carla_waypoint_publisher/share/carla_waypoint_publisher
+symbolically linking /home/rfzhang/ROS-Carla/CSC791Project/ros-carla-bridge/build/carla_waypoint_publisher/launch/carla_waypoint_publisher.launch.py -> /home/rfzhang/ROS-Carla/CSC791Project/ros-carla-bridge/install/carla_waypoint_publisher/share/carla_waypoint_publisher

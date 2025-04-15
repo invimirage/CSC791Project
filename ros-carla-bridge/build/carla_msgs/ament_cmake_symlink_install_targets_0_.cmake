@@ -1,0 +1,1 @@
+ament_cmake_symlink_install_targets("TARGET_FILES" "/home/rfzhang/ROS-Carla/CSC791Project/ros-carla-bridge/build/carla_msgs/rosidl_generator_py/carla_msgs/carla_msgs_s__rosidl_typesupport_fastrtps_c.cpython-310-x86_64-linux-gnu.so" "TARGETS" "carla_msgs__rosidl_typesupport_fastrtps_c__pyext" "DESTINATION" "lib/python3.10/site-packages/carla_msgs")

@@ -1,0 +1,9 @@
+source;share/lidar_to_carla/hook/pythonpath.ps1
+source;share/lidar_to_carla/hook/pythonpath.dsv
+source;share/lidar_to_carla/hook/pythonpath.sh
+source;share/lidar_to_carla/hook/ament_prefix_path.ps1
+source;share/lidar_to_carla/hook/ament_prefix_path.dsv
+source;share/lidar_to_carla/hook/ament_prefix_path.sh
+source;../../build/lidar_to_carla/share/lidar_to_carla/hook/pythonpath_develop.ps1
+source;../../build/lidar_to_carla/share/lidar_to_carla/hook/pythonpath_develop.dsv
+source;../../build/lidar_to_carla/share/lidar_to_carla/hook/pythonpath_develop.sh

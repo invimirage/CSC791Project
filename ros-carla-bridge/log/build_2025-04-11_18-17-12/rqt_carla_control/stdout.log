@@ -1,0 +1,18 @@
+running develop
+running egg_info
+creating src/rqt_carla_control.egg-info
+writing manifest file 'src/rqt_carla_control.egg-info/SOURCES.txt'
+writing manifest file 'src/rqt_carla_control.egg-info/SOURCES.txt'
+running build_ext
+running symlink_data
+creating /home/rfzhang/ROS-Carla/CSC791Project/ros-carla-bridge/install/rqt_carla_control/share/ament_index
+creating /home/rfzhang/ROS-Carla/CSC791Project/ros-carla-bridge/install/rqt_carla_control/share/ament_index/resource_index
+creating /home/rfzhang/ROS-Carla/CSC791Project/ros-carla-bridge/install/rqt_carla_control/share/ament_index/resource_index/packages
+symbolically linking /home/rfzhang/ROS-Carla/CSC791Project/ros-carla-bridge/build/rqt_carla_control/resource/rqt_carla_control -> /home/rfzhang/ROS-Carla/CSC791Project/ros-carla-bridge/install/rqt_carla_control/share/ament_index/resource_index/packages
+symbolically linking /home/rfzhang/ROS-Carla/CSC791Project/ros-carla-bridge/build/rqt_carla_control/package.xml -> /home/rfzhang/ROS-Carla/CSC791Project/ros-carla-bridge/install/rqt_carla_control/share/rqt_carla_control
+symbolically linking /home/rfzhang/ROS-Carla/CSC791Project/ros-carla-bridge/build/rqt_carla_control/plugin.xml -> /home/rfzhang/ROS-Carla/CSC791Project/ros-carla-bridge/install/rqt_carla_control/share/rqt_carla_control
+creating /home/rfzhang/ROS-Carla/CSC791Project/ros-carla-bridge/install/rqt_carla_control/share/rqt_carla_control/resource
+symbolically linking /home/rfzhang/ROS-Carla/CSC791Project/ros-carla-bridge/build/rqt_carla_control/resource/CarlaControl.ui -> /home/rfzhang/ROS-Carla/CSC791Project/ros-carla-bridge/install/rqt_carla_control/share/rqt_carla_control/resource
+symbolically linking /home/rfzhang/ROS-Carla/CSC791Project/ros-carla-bridge/build/rqt_carla_control/resource/pause.png -> /home/rfzhang/ROS-Carla/CSC791Project/ros-carla-bridge/install/rqt_carla_control/share/rqt_carla_control/resource
+symbolically linking /home/rfzhang/ROS-Carla/CSC791Project/ros-carla-bridge/build/rqt_carla_control/resource/play.png -> /home/rfzhang/ROS-Carla/CSC791Project/ros-carla-bridge/install/rqt_carla_control/share/rqt_carla_control/resource
+symbolically linking /home/rfzhang/ROS-Carla/CSC791Project/ros-carla-bridge/build/rqt_carla_control/resource/step_once.png -> /home/rfzhang/ROS-Carla/CSC791Project/ros-carla-bridge/install/rqt_carla_control/share/rqt_carla_control/resource

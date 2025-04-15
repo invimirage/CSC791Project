@@ -1,0 +1,1 @@
+ament_cmake_symlink_install_targets("TARGET_FILES" "/home/rfzhang/ROS-Carla/CSC791Project/ros-carla-bridge/build/pcl_recorder/pcl_recorder_node" "TARGETS" "pcl_recorder_node" "DESTINATION" "lib/pcl_recorder")

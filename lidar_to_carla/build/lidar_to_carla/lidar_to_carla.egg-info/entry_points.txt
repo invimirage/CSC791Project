@@ -1,0 +1,4 @@
+[console_scripts]
+fetch_lidar = lidar_to_carla.fetch_lidar:main
+lidar_obj_detect = lidar_to_carla.lidar_obj_detect:main
+

@@ -1,0 +1,12 @@
+Metadata-Version: 2.1
+Name: lidar-to-carla
+Version: 0.0.1
+Summary: Bridge lidar data from ROS2 to Carla
+Home-page: UNKNOWN
+Maintainer: yourname
+Maintainer-email: youremail@example.com
+License: MIT
+Platform: UNKNOWN
+
+UNKNOWN
+

@@ -1,0 +1,10 @@
+{
+  "package_name": "carla_ackermann_msgs",
+  "non_idl_tuples": [
+    "/home/rfzhang/ROS-Carla/CSC791Project/ros-carla-bridge/src/carla_ros/carla_ackermann_msgs:msg/EgoVehicleControlInfo.msg",
+    "/home/rfzhang/ROS-Carla/CSC791Project/ros-carla-bridge/src/carla_ros/carla_ackermann_msgs:msg/EgoVehicleControlCurrent.msg",
+    "/home/rfzhang/ROS-Carla/CSC791Project/ros-carla-bridge/src/carla_ros/carla_ackermann_msgs:msg/EgoVehicleControlMaxima.msg",
+    "/home/rfzhang/ROS-Carla/CSC791Project/ros-carla-bridge/src/carla_ros/carla_ackermann_msgs:msg/EgoVehicleControlStatus.msg",
+    "/home/rfzhang/ROS-Carla/CSC791Project/ros-carla-bridge/src/carla_ros/carla_ackermann_msgs:msg/EgoVehicleControlTarget.msg"
+  ]
+}

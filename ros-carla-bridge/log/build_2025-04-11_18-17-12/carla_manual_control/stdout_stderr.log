@@ -1,0 +1,13 @@
+running develop
+running egg_info
+creating src/carla_manual_control.egg-info
+writing manifest file 'src/carla_manual_control.egg-info/SOURCES.txt'
+writing manifest file 'src/carla_manual_control.egg-info/SOURCES.txt'
+running build_ext
+running symlink_data
+creating /home/rfzhang/ROS-Carla/CSC791Project/ros-carla-bridge/install/carla_manual_control/share/ament_index
+creating /home/rfzhang/ROS-Carla/CSC791Project/ros-carla-bridge/install/carla_manual_control/share/ament_index/resource_index
+creating /home/rfzhang/ROS-Carla/CSC791Project/ros-carla-bridge/install/carla_manual_control/share/ament_index/resource_index/packages
+symbolically linking /home/rfzhang/ROS-Carla/CSC791Project/ros-carla-bridge/build/carla_manual_control/resource/carla_manual_control -> /home/rfzhang/ROS-Carla/CSC791Project/ros-carla-bridge/install/carla_manual_control/share/ament_index/resource_index/packages
+symbolically linking /home/rfzhang/ROS-Carla/CSC791Project/ros-carla-bridge/build/carla_manual_control/package.xml -> /home/rfzhang/ROS-Carla/CSC791Project/ros-carla-bridge/install/carla_manual_control/share/carla_manual_control
+symbolically linking /home/rfzhang/ROS-Carla/CSC791Project/ros-carla-bridge/build/carla_manual_control/launch/carla_manual_control.launch.py -> /home/rfzhang/ROS-Carla/CSC791Project/ros-carla-bridge/install/carla_manual_control/share/carla_manual_control

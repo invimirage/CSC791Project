@@ -1,0 +1,24 @@
+/usr/lib/python3/dist-packages/setuptools/dist.py:723: UserWarning: Usage of dash-separated 'script-dir' will not be supported in future versions. Please use the underscore name 'script_dir' instead
+  warnings.warn(
+running develop
+running egg_info
+creating lidar_to_carla.egg-info
+writing lidar_to_carla.egg-info/PKG-INFO
+writing dependency_links to lidar_to_carla.egg-info/dependency_links.txt
+writing entry points to lidar_to_carla.egg-info/entry_points.txt
+writing requirements to lidar_to_carla.egg-info/requires.txt
+writing top-level names to lidar_to_carla.egg-info/top_level.txt
+writing manifest file 'lidar_to_carla.egg-info/SOURCES.txt'
+reading manifest file 'lidar_to_carla.egg-info/SOURCES.txt'
+writing manifest file 'lidar_to_carla.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/rfzhang/ROS-Carla/CSC791Project/lidar_to_carla/install/lidar_to_carla/lib/python3.10/site-packages/lidar-to-carla.egg-link (link to .)
+Installing fetch_lidar script to /home/rfzhang/ROS-Carla/CSC791Project/lidar_to_carla/install/lidar_to_carla/lib/lidar_to_carla
+
+Installed /home/rfzhang/ROS-Carla/CSC791Project/lidar_to_carla/build/lidar_to_carla
+running symlink_data
+creating /home/rfzhang/ROS-Carla/CSC791Project/lidar_to_carla/install/lidar_to_carla/share/ament_index
+creating /home/rfzhang/ROS-Carla/CSC791Project/lidar_to_carla/install/lidar_to_carla/share/ament_index/resource_index
+creating /home/rfzhang/ROS-Carla/CSC791Project/lidar_to_carla/install/lidar_to_carla/share/ament_index/resource_index/packages
+symbolically linking /home/rfzhang/ROS-Carla/CSC791Project/lidar_to_carla/build/lidar_to_carla/resource/lidar_to_carla -> /home/rfzhang/ROS-Carla/CSC791Project/lidar_to_carla/install/lidar_to_carla/share/ament_index/resource_index/packages
+symbolically linking /home/rfzhang/ROS-Carla/CSC791Project/lidar_to_carla/build/lidar_to_carla/package.xml -> /home/rfzhang/ROS-Carla/CSC791Project/lidar_to_carla/install/lidar_to_carla/share/lidar_to_carla

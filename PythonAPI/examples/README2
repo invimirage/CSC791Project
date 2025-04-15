@@ -1,0 +1,13 @@
+To run: python3 PythonAPI/examples/my_automatic_control.py -a MyStop --filter vehicle.jeep.wrangler_rubicon
+
+To complete the task, we added:
+ class MyStopAgent(BasicAgent) in my_automatic_control.py: 
+ Collect the stop signs information, and it's run_step() consists of 3 conditions:
+ 1. The car is stopping at a stop sign, and hasn't stopped for enough time ticks->continue stopping.
+ 2. A stop sign is detected and within stopping distance-> perform stopping.
+ 3. Other conditions->call the default run_step() in BasicAgent.
+
+ function _affected_by_stop_sign(self, stop_distance, stop_signs_list=None, visited_stop_signs=None) in basic_agent.py: 
+ For the stop signs in the map, juedge whether the car needs to stop now based on the distance between the car and the sign. 
+ Use visited_stop_signs to ignore the stop sign that the car already stopped for.
+ Returns: Whether the car is in front of a stop sign, and, if so, the sign's id.

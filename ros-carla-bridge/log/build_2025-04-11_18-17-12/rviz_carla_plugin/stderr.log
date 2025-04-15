@@ -1,0 +1,5 @@
+/usr/bin/ld: cannot find -ltf2_geometry_msgs: No such file or directory
+collect2: error: ld returned 1 exit status
+gmake[2]: *** [CMakeFiles/rviz_carla_plugin.dir/build.make:345: librviz_carla_plugin.so] Error 1
+gmake[1]: *** [CMakeFiles/Makefile2:138: CMakeFiles/rviz_carla_plugin.dir/all] Error 2
+gmake: *** [Makefile:146: all] Error 2

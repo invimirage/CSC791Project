@@ -1,0 +1,20 @@
+[1.120s] Invoking command in '/home/rfzhang/ROS-Carla/CSC791Project/ros-carla-bridge/build/rqt_carla_control': PYTHONPATH=/home/rfzhang/ROS-Carla/CSC791Project/ros-carla-bridge/build/rqt_carla_control/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/rfzhang/ROS-Carla/CSC791Project/ros-carla-bridge/install/rqt_carla_control/lib/python3.10/site-packages:${PYTHONPATH} VIRTUAL_ENV_PROMPT=(ros-carla) /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/rfzhang/ROS-Carla/CSC791Project/ros-carla-bridge/build/rqt_carla_control/build --no-deps symlink_data
+[1.323s] running develop
+[1.436s] running egg_info
+[1.436s] creating src/rqt_carla_control.egg-info
+[1.436s] writing manifest file 'src/rqt_carla_control.egg-info/SOURCES.txt'
+[1.439s] writing manifest file 'src/rqt_carla_control.egg-info/SOURCES.txt'
+[1.440s] running build_ext
+[1.442s] running symlink_data
+[1.442s] creating /home/rfzhang/ROS-Carla/CSC791Project/ros-carla-bridge/install/rqt_carla_control/share/ament_index
+[1.443s] creating /home/rfzhang/ROS-Carla/CSC791Project/ros-carla-bridge/install/rqt_carla_control/share/ament_index/resource_index
+[1.443s] creating /home/rfzhang/ROS-Carla/CSC791Project/ros-carla-bridge/install/rqt_carla_control/share/ament_index/resource_index/packages
+[1.443s] symbolically linking /home/rfzhang/ROS-Carla/CSC791Project/ros-carla-bridge/build/rqt_carla_control/resource/rqt_carla_control -> /home/rfzhang/ROS-Carla/CSC791Project/ros-carla-bridge/install/rqt_carla_control/share/ament_index/resource_index/packages
+[1.443s] symbolically linking /home/rfzhang/ROS-Carla/CSC791Project/ros-carla-bridge/build/rqt_carla_control/package.xml -> /home/rfzhang/ROS-Carla/CSC791Project/ros-carla-bridge/install/rqt_carla_control/share/rqt_carla_control
+[1.443s] symbolically linking /home/rfzhang/ROS-Carla/CSC791Project/ros-carla-bridge/build/rqt_carla_control/plugin.xml -> /home/rfzhang/ROS-Carla/CSC791Project/ros-carla-bridge/install/rqt_carla_control/share/rqt_carla_control
+[1.443s] creating /home/rfzhang/ROS-Carla/CSC791Project/ros-carla-bridge/install/rqt_carla_control/share/rqt_carla_control/resource
+[1.443s] symbolically linking /home/rfzhang/ROS-Carla/CSC791Project/ros-carla-bridge/build/rqt_carla_control/resource/CarlaControl.ui -> /home/rfzhang/ROS-Carla/CSC791Project/ros-carla-bridge/install/rqt_carla_control/share/rqt_carla_control/resource
+[1.443s] symbolically linking /home/rfzhang/ROS-Carla/CSC791Project/ros-carla-bridge/build/rqt_carla_control/resource/pause.png -> /home/rfzhang/ROS-Carla/CSC791Project/ros-carla-bridge/install/rqt_carla_control/share/rqt_carla_control/resource
+[1.443s] symbolically linking /home/rfzhang/ROS-Carla/CSC791Project/ros-carla-bridge/build/rqt_carla_control/resource/play.png -> /home/rfzhang/ROS-Carla/CSC791Project/ros-carla-bridge/install/rqt_carla_control/share/rqt_carla_control/resource
+[1.443s] symbolically linking /home/rfzhang/ROS-Carla/CSC791Project/ros-carla-bridge/build/rqt_carla_control/resource/step_once.png -> /home/rfzhang/ROS-Carla/CSC791Project/ros-carla-bridge/install/rqt_carla_control/share/rqt_carla_control/resource
+[1.468s] Invoked command in '/home/rfzhang/ROS-Carla/CSC791Project/ros-carla-bridge/build/rqt_carla_control' returned '0': PYTHONPATH=/home/rfzhang/ROS-Carla/CSC791Project/ros-carla-bridge/build/rqt_carla_control/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/rfzhang/ROS-Carla/CSC791Project/ros-carla-bridge/install/rqt_carla_control/lib/python3.10/site-packages:${PYTHONPATH} VIRTUAL_ENV_PROMPT=(ros-carla) /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/rfzhang/ROS-Carla/CSC791Project/ros-carla-bridge/build/rqt_carla_control/build --no-deps symlink_data

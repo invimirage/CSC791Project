@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<package format="3">
+  <name>lidar_to_carla</name>
+  <version>0.0.1</version>
+  <description>Bridge between RPLidar and Carla ROS Bridge</description>
+  <maintainer email="your.email@example.com">Your Name</maintainer>
+  <license>MIT</license>
+
+  <!-- Dependencies -->
+  <exec_depend>rclpy</exec_depend>
+  <exec_depend>std_msgs</exec_depend>
+  <exec_depend>sensor_msgs</exec_depend>
+
+  <!-- For colcon to recognize this as a Python package -->
+  <buildtool_depend>ament_python</buildtool_depend>
+
+  <!-- Optional but good to have -->
+  <test_depend>pytest</test_depend>
+
+  <!-- Export tag is required for Python packages -->
+  <export>
+    <build_type>ament_python</build_type>
+  </export>
+</package>

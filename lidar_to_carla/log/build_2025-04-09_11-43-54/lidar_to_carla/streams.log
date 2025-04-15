@@ -1,0 +1,9 @@
+[0.669s] Invoking command in '/home/rfzhang/ROS-Carla/CSC791Project/lidar_to_carla/build/lidar_to_carla': PYTHONPATH=/home/rfzhang/ROS-Carla/CSC791Project/lidar_to_carla/build/lidar_to_carla/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/rfzhang/ROS-Carla/CSC791Project/lidar_to_carla/install/lidar_to_carla/lib/python3.10/site-packages:${PYTHONPATH} VIRTUAL_ENV_PROMPT=(ros-carla) /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/rfzhang/ROS-Carla/CSC791Project/lidar_to_carla/build/lidar_to_carla/build --no-deps symlink_data
+[0.821s] /home/rfzhang/ROS-Carla/ros-carla/lib/python3.10/site-packages/setuptools/dist.py:723: UserWarning: Usage of dash-separated 'script-dir' will not be supported in future versions. Please use the underscore name 'script_dir' instead
+[0.822s]   warnings.warn(
+[0.853s] running develop
+[0.958s] running egg_info
+[0.960s] writing manifest file 'lidar_to_carla.egg-info/SOURCES.txt'
+[0.961s] running build_ext
+[0.963s] running symlink_data
+[0.982s] Invoked command in '/home/rfzhang/ROS-Carla/CSC791Project/lidar_to_carla/build/lidar_to_carla' returned '0': PYTHONPATH=/home/rfzhang/ROS-Carla/CSC791Project/lidar_to_carla/build/lidar_to_carla/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/rfzhang/ROS-Carla/CSC791Project/lidar_to_carla/install/lidar_to_carla/lib/python3.10/site-packages:${PYTHONPATH} VIRTUAL_ENV_PROMPT=(ros-carla) /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/rfzhang/ROS-Carla/CSC791Project/lidar_to_carla/build/lidar_to_carla/build --no-deps symlink_data

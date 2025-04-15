@@ -1,0 +1,1 @@
+/home/rfzhang/ROS-Carla/CSC791Project/ros-carla-bridge/build/carla_ackermann_msgs/rosidl_typesupport_introspection_c/carla_ackermann_msgs/msg/detail/ego_vehicle_control_current__rosidl_typesupport_introspection_c.h

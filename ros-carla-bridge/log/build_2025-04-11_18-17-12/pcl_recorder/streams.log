@@ -1,0 +1,101 @@
+[1.936s] Invoking command in '/home/rfzhang/ROS-Carla/CSC791Project/ros-carla-bridge/build/pcl_recorder': AMENT_PREFIX_PATH=/home/rfzhang/ROS-Carla/CSC791Project/ros-carla-bridge/install/carla_ros_bridge:/home/rfzhang/ROS-Carla/CSC791Project/ros-carla-bridge/install/carla_spawn_objects:/home/rfzhang/ROS-Carla/CSC791Project/ros-carla-bridge/install/carla_manual_control:/home/rfzhang/ROS-Carla/CSC791Project/ros-carla-bridge/install/ros_compatibility:/home/rfzhang/ROS-Carla/CSC791Project/ros-carla-bridge/install/carla_common:/home/rfzhang/ROS-Carla/CSC791Project/lidar_to_carla/install/lidar_to_carla:/home/rfzhang/ROS-Carla/CSC791Project/ros-carla-bridge/install/carla_ad_demo:/home/rfzhang/ROS-Carla/CSC791Project/ros-carla-bridge/install/rviz_carla_plugin:/home/rfzhang/ROS-Carla/CSC791Project/ros-carla-bridge/install/rqt_carla_control:/home/rfzhang/ROS-Carla/CSC791Project/ros-carla-bridge/install/pcl_recorder:/home/rfzhang/ROS-Carla/CSC791Project/ros-carla-bridge/install/carla_waypoint_publisher:/home/rfzhang/ROS-Carla/CSC791Project/ros-carla-bridge/install/carla_ackermann_control:/home/rfzhang/ROS-Carla/CSC791Project/ros-carla-bridge/install/carla_ad_agent:/home/rfzhang/ROS-Carla/CSC791Project/ros-carla-bridge/install/carla_waypoint_types:/home/rfzhang/ROS-Carla/CSC791Project/ros-carla-bridge/install/carla_walker_agent:/home/rfzhang/ROS-Carla/CSC791Project/ros-carla-bridge/install/carla_twist_to_control:/home/rfzhang/ROS-Carla/CSC791Project/ros-carla-bridge/install/carla_ros_scenario_runner:/home/rfzhang/ROS-Carla/CSC791Project/ros-carla-bridge/install/carla_ros_scenario_runner_types:/home/rfzhang/ROS-Carla/CSC791Project/ros-carla-bridge/install/carla_ackermann_msgs:/home/rfzhang/ROS-Carla/CSC791Project/ros-carla-bridge/install/carla_msgs:/opt/ros/humble CMAKE_PREFIX_PATH=/home/rfzhang/ROS-Carla/CSC791Project/ros-carla-bridge/install/carla_msgs:/home/rfzhang/ROS-Carla/CSC791Project/ros-carla-bridge/install/carla_ad_demo:/home/rfzhang/ROS-Carla/CSC791Project/ros-carla-bridge/install/rviz_carla_plugin:/home/rfzhang/ROS-Carla/CSC791Project/ros-carla-bridge/install/pcl_recorder:/home/rfzhang/ROS-Carla/CSC791Project/ros-carla-bridge/install/carla_waypoint_types:/home/rfzhang/ROS-Carla/CSC791Project/ros-carla-bridge/install/carla_ros_scenario_runner_types:/home/rfzhang/ROS-Carla/CSC791Project/ros-carla-bridge/install/carla_ackermann_msgs:/home/rfzhang/ROS-Carla/CSC791Project/lidar_to_carla/install/lidar_to_carla:/home/rfzhang/ROS-Carla/CSC791Project/ros-carla-bridge/install/rqt_carla_control:/home/rfzhang/ROS-Carla/CSC791Project/ros-carla-bridge/install/carla_waypoint_publisher:/home/rfzhang/ROS-Carla/CSC791Project/ros-carla-bridge/install/carla_ackermann_control:/home/rfzhang/ROS-Carla/CSC791Project/ros-carla-bridge/install/carla_ros_bridge:/home/rfzhang/ROS-Carla/CSC791Project/ros-carla-bridge/install/carla_spawn_objects:/home/rfzhang/ROS-Carla/CSC791Project/ros-carla-bridge/install/carla_manual_control:/home/rfzhang/ROS-Carla/CSC791Project/ros-carla-bridge/install/carla_ad_agent:/home/rfzhang/ROS-Carla/CSC791Project/ros-carla-bridge/install/ros_compatibility:/home/rfzhang/ROS-Carla/CSC791Project/ros-carla-bridge/install/carla_walker_agent:/home/rfzhang/ROS-Carla/CSC791Project/ros-carla-bridge/install/carla_twist_to_control:/home/rfzhang/ROS-Carla/CSC791Project/ros-carla-bridge/install/carla_ros_scenario_runner:/home/rfzhang/ROS-Carla/CSC791Project/ros-carla-bridge/install/carla_common:/opt/ros/humble LD_LIBRARY_PATH=/home/rfzhang/ROS-Carla/CSC791Project/ros-carla-bridge/install/carla_msgs/lib:/home/rfzhang/ROS-Carla/CSC791Project/ros-carla-bridge/install/rviz_carla_plugin/lib:/home/rfzhang/ROS-Carla/CSC791Project/ros-carla-bridge/install/carla_waypoint_types/lib:/home/rfzhang/ROS-Carla/CSC791Project/ros-carla-bridge/install/carla_ros_scenario_runner_types/lib:/home/rfzhang/ROS-Carla/CSC791Project/ros-carla-bridge/install/carla_ackermann_msgs/lib:/opt/ros/humble/opt/rviz_ogre_vendor/lib:/opt/ros/humble/lib/x86_64-linux-gnu:/opt/ros/humble/lib PYTHONPATH=/home/rfzhang/ROS-Carla/CSC791Project/ros-carla-bridge/build/carla_ros_bridge/src:/home/rfzhang/ROS-Carla/CSC791Project/ros-carla-bridge/install/carla_ros_bridge/lib/python3.10/site-packages:/home/rfzhang/ROS-Carla/CSC791Project/ros-carla-bridge/build/carla_spawn_objects:/home/rfzhang/ROS-Carla/CSC791Project/ros-carla-bridge/install/carla_spawn_objects/lib/python3.10/site-packages:/home/rfzhang/ROS-Carla/CSC791Project/ros-carla-bridge/build/carla_manual_control/src:/home/rfzhang/ROS-Carla/CSC791Project/ros-carla-bridge/install/carla_manual_control/lib/python3.10/site-packages:/home/rfzhang/ROS-Carla/CSC791Project/ros-carla-bridge/build/ros_compatibility/src:/home/rfzhang/ROS-Carla/CSC791Project/ros-carla-bridge/install/ros_compatibility/lib/python3.10/site-packages:/home/rfzhang/ROS-Carla/CSC791Project/ros-carla-bridge/install/carla_msgs/lib/python3.10/site-packages:/home/rfzhang/ROS-Carla/CSC791Project/ros-carla-bridge/build/carla_common/src:/home/rfzhang/ROS-Carla/CSC791Project/ros-carla-bridge/install/carla_common/lib/python3.10/site-packages:/home/rfzhang/ROS-Carla/CSC791Project/ros-carla-bridge/install/carla_waypoint_types/lib/python3.10/site-packages:/home/rfzhang/ROS-Carla/CSC791Project/ros-carla-bridge/install/carla_ros_scenario_runner_types/lib/python3.10/site-packages:/home/rfzhang/ROS-Carla/CSC791Project/ros-carla-bridge/install/carla_ackermann_msgs/lib/python3.10/site-packages:/home/rfzhang/ROS-Carla/PythonAPI/carla:/home/rfzhang/ROS-Carla/ros-carla/lib/python3.10/site-packages:/home/rfzhang/ROS-Carla/CSC791Project/lidar_to_carla/build/lidar_to_carla:/home/rfzhang/ROS-Carla/CSC791Project/lidar_to_carla/install/lidar_to_carla/lib/python3.10/site-packages:/home/rfzhang/ROS-Carla/CSC791Project/ros-carla-bridge/build/rqt_carla_control/src:/home/rfzhang/ROS-Carla/CSC791Project/ros-carla-bridge/install/rqt_carla_control/lib/python3.10/site-packages:/home/rfzhang/ROS-Carla/CSC791Project/ros-carla-bridge/build/carla_waypoint_publisher/src:/home/rfzhang/ROS-Carla/CSC791Project/ros-carla-bridge/install/carla_waypoint_publisher/lib/python3.10/site-packages:/home/rfzhang/ROS-Carla/CSC791Project/ros-carla-bridge/build/carla_ackermann_control/src:/home/rfzhang/ROS-Carla/CSC791Project/ros-carla-bridge/install/carla_ackermann_control/lib/python3.10/site-packages:/home/rfzhang/ROS-Carla/CSC791Project/ros-carla-bridge/build/carla_ad_agent/src:/home/rfzhang/ROS-Carla/CSC791Project/ros-carla-bridge/install/carla_ad_agent/lib/python3.10/site-packages:/home/rfzhang/ROS-Carla/CSC791Project/ros-carla-bridge/install/carla_waypoint_types/local/lib/python3.10/dist-packages:/home/rfzhang/ROS-Carla/CSC791Project/ros-carla-bridge/build/carla_walker_agent/src:/home/rfzhang/ROS-Carla/CSC791Project/ros-carla-bridge/install/carla_walker_agent/lib/python3.10/site-packages:/home/rfzhang/ROS-Carla/CSC791Project/ros-carla-bridge/build/carla_twist_to_control/src:/home/rfzhang/ROS-Carla/CSC791Project/ros-carla-bridge/install/carla_twist_to_control/lib/python3.10/site-packages:/home/rfzhang/ROS-Carla/CSC791Project/ros-carla-bridge/build/carla_ros_scenario_runner/src:/home/rfzhang/ROS-Carla/CSC791Project/ros-carla-bridge/install/carla_ros_scenario_runner/lib/python3.10/site-packages:/home/rfzhang/ROS-Carla/CSC791Project/ros-carla-bridge/install/carla_ros_scenario_runner_types/local/lib/python3.10/dist-packages:/home/rfzhang/ROS-Carla/CSC791Project/ros-carla-bridge/install/carla_ackermann_msgs/local/lib/python3.10/dist-packages:/home/rfzhang/ROS-Carla/CSC791Project/ros-carla-bridge/install/carla_msgs/local/lib/python3.10/dist-packages:/opt/ros/humble/lib/python3.10/site-packages:/opt/ros/humble/local/lib/python3.10/dist-packages:/home/rfzhang/ROS-Carla/ros-carla/lib/python3.10/site-packages:/home/rfzhang/ROS-Carla/carla-0.9.14-py3.10-linux-x86_64.egg:/home/rfzhang/ROS-Carla/carla-0.9.14-py3.10-linux-x86_64.egg VIRTUAL_ENV_PROMPT=(ros-carla) /usr/bin/cmake /home/rfzhang/ROS-Carla/CSC791Project/ros-carla-bridge/src/carla_ros/pcl_recorder -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/rfzhang/ROS-Carla/CSC791Project/ros-carla-bridge/install/pcl_recorder
+[2.123s] -- The C compiler identification is GNU 11.4.0
+[3.074s] -- The CXX compiler identification is GNU 11.4.0
+[3.979s] -- Detecting C compiler ABI info
+[4.207s] -- Detecting C compiler ABI info - done
+[4.211s] -- Check for working C compiler: /usr/bin/cc - skipped
+[4.212s] -- Detecting C compile features
+[4.212s] -- Detecting C compile features - done
+[4.214s] -- Detecting CXX compiler ABI info
+[4.438s] -- Detecting CXX compiler ABI info - done
+[4.442s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[4.443s] -- Detecting CXX compile features
+[4.443s] -- Detecting CXX compile features - done
+[4.444s] -- Found ros_environment: 3.2.2 (/opt/ros/humble/share/ros_environment/cmake)
+[4.446s] -- Found ament_cmake: 1.3.11 (/opt/ros/humble/share/ament_cmake/cmake)
+[4.555s] -- Found Python3: /home/rfzhang/ROS-Carla/ros-carla/bin/python3 (found version "3.10.12") found components: Interpreter 
+[4.607s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[4.627s] -- Found rclcpp: 16.0.11 (/opt/ros/humble/share/rclcpp/cmake)
+[4.942s] -- Found rosidl_generator_c: 3.1.6 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+[4.945s] -- Found rosidl_adapter: 3.1.6 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[4.951s] -- Found rosidl_generator_cpp: 3.1.6 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+[4.960s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[4.971s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[5.000s] -- Found rmw_implementation_cmake: 6.1.2 (/opt/ros/humble/share/rmw_implementation_cmake/cmake)
+[5.002s] -- Found rmw_fastrtps_cpp: 6.2.7 (/opt/ros/humble/share/rmw_fastrtps_cpp/cmake)
+[6.535s] -- Found OpenSSL: /usr/lib/x86_64-linux-gnu/libcrypto.so (found version "3.0.2")  
+[7.550s] -- Found FastRTPS: /opt/ros/humble/include  
+[13.129s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[13.135s] -- Looking for pthread.h
+[13.297s] -- Looking for pthread.h - found
+[13.297s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+[13.476s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Success
+[13.477s] -- Found Threads: TRUE  
+[13.509s] -- Found rclcpp_components: 16.0.11 (/opt/ros/humble/share/rclcpp_components/cmake)
+[13.528s] -- Found sensor_msgs: 4.2.4 (/opt/ros/humble/share/sensor_msgs/cmake)
+[13.547s] -- Found tf2: 0.25.12 (/opt/ros/humble/share/tf2/cmake)
+[13.551s] -- Found tf2_eigen: 0.25.12 (/opt/ros/humble/share/tf2_eigen/cmake)
+[13.603s] -- Found tf2_geometry_msgs: 0.25.12 (/opt/ros/humble/share/tf2_geometry_msgs/cmake)
+[13.660s] -- Found eigen3_cmake_module: 0.1.1 (/opt/ros/humble/share/eigen3_cmake_module/cmake)
+[13.660s] -- Found Eigen3: TRUE (found version "3.4.0") 
+[13.661s] -- Ensuring Eigen3 include directory is part of orocos-kdl CMake target
+[13.663s] -- Found pcl_conversions: 2.4.5 (/opt/ros/humble/share/pcl_conversions/cmake)
+[13.686s] -- Checking for module 'eigen3'
+[13.693s] --   Found eigen3, version 3.4.0
+[13.708s] -- Found Eigen: /usr/include/eigen3 (Required is at least version "3.1") 
+[13.708s] -- Eigen found (include: /usr/include/eigen3, version: 3.4.0)
+[15.785s] -- Checking for module 'flann'
+[15.792s] --   Found flann, version 1.9.1
+[16.384s] -- Found FLANN: /usr/lib/x86_64-linux-gnu/libflann_cpp.so  
+[16.384s] -- FLANN found (include: /usr/include, lib: /usr/lib/x86_64-linux-gnu/libflann_cpp.so)
+[24.033s] -- Checking for module 'libusb-1.0'
+[24.044s] --   Found libusb-1.0, version 1.0.25
+[24.254s] -- Found libusb: /usr/lib/x86_64-linux-gnu/libusb-1.0.so  
+[24.255s] -- OpenNI found (version: 1.5.4.0, include: /usr/include/ni, lib: /usr/lib/libOpenNI.so;libusb::libusb)
+[24.630s] -- OpenNI2 found (version: 2.2.0.33, include: /usr/include/openni2, lib: /usr/lib/x86_64-linux-gnu/libOpenNI2.so;libusb::libusb)
+[28.779s] -- Eigen found (include: /usr/include/eigen3, version: 3.4.0)
+[28.783s] -- OpenNI found (version: 1.5.4.0, include: /usr/include/ni, lib: /usr/lib/libOpenNI.so;libusb::libusb)
+[28.787s] -- OpenNI2 found (version: 2.2.0.33, include: /usr/include/openni2, lib: /usr/lib/x86_64-linux-gnu/libOpenNI2.so;libusb::libusb)
+[33.396s] -- Found Qhull version 8.0.2
+[38.102s] -- OpenNI found (version: 1.5.4.0, include: /usr/include/ni, lib: /usr/lib/libOpenNI.so;libusb::libusb)
+[42.822s] -- Found PCL_COMMON: /usr/lib/x86_64-linux-gnu/libpcl_common.so  
+[42.822s] -- Found PCL_KDTREE: /usr/lib/x86_64-linux-gnu/libpcl_kdtree.so  
+[42.823s] -- Found PCL_OCTREE: /usr/lib/x86_64-linux-gnu/libpcl_octree.so  
+[42.823s] -- Found PCL_SEARCH: /usr/lib/x86_64-linux-gnu/libpcl_search.so  
+[42.824s] -- Found PCL_SAMPLE_CONSENSUS: /usr/lib/x86_64-linux-gnu/libpcl_sample_consensus.so  
+[42.824s] -- Found PCL_FILTERS: /usr/lib/x86_64-linux-gnu/libpcl_filters.so  
+[42.824s] -- Found PCL_2D: /usr/include/pcl-1.12  
+[42.825s] -- Found PCL_GEOMETRY: /usr/include/pcl-1.12  
+[42.825s] -- Found PCL_IO: /usr/lib/x86_64-linux-gnu/libpcl_io.so  
+[42.826s] -- Found PCL_FEATURES: /usr/lib/x86_64-linux-gnu/libpcl_features.so  
+[42.827s] -- Found PCL_ML: /usr/lib/x86_64-linux-gnu/libpcl_ml.so  
+[42.827s] -- Found PCL_SEGMENTATION: /usr/lib/x86_64-linux-gnu/libpcl_segmentation.so  
+[42.828s] -- Found PCL_VISUALIZATION: /usr/lib/x86_64-linux-gnu/libpcl_visualization.so  
+[42.828s] -- Found PCL_SURFACE: /usr/lib/x86_64-linux-gnu/libpcl_surface.so  
+[42.829s] -- Found PCL_REGISTRATION: /usr/lib/x86_64-linux-gnu/libpcl_registration.so  
+[42.830s] -- Found PCL_KEYPOINTS: /usr/lib/x86_64-linux-gnu/libpcl_keypoints.so  
+[42.830s] -- Found PCL_TRACKING: /usr/lib/x86_64-linux-gnu/libpcl_tracking.so  
+[42.831s] -- Found PCL_RECOGNITION: /usr/lib/x86_64-linux-gnu/libpcl_recognition.so  
+[42.831s] -- Found PCL_STEREO: /usr/lib/x86_64-linux-gnu/libpcl_stereo.so  
+[42.832s] -- Found PCL_APPS: /usr/lib/x86_64-linux-gnu/libpcl_apps.so  
+[42.832s] -- Found PCL_IN_HAND_SCANNER: /usr/include/pcl-1.12  
+[42.833s] -- Found PCL_MODELER: /usr/include/pcl-1.12  
+[42.833s] -- Found PCL_POINT_CLOUD_EDITOR: /usr/include/pcl-1.12  
+[42.833s] -- Found PCL_OUTOFCORE: /usr/lib/x86_64-linux-gnu/libpcl_outofcore.so  
+[42.834s] -- Found PCL_PEOPLE: /usr/lib/x86_64-linux-gnu/libpcl_people.so  
+[42.838s] -- Found Boost: /usr/lib/x86_64-linux-gnu/cmake/Boost-1.74.0/BoostConfig.cmake (found version "1.74.0") found components: system 
+[42.838s] [33mCMake Warning (dev) at CMakeLists.txt:62 (find_package):
+[42.838s]   Policy CMP0074 is not set: find_package uses <PackageName>_ROOT variables.
+[42.838s]   Run "cmake --help-policy CMP0074" for policy details.  Use the cmake_policy
+[42.838s]   command to set the policy and suppress this warning.
+[42.838s] 
+[42.838s]   CMake variable PCL_ROOT is set to:
+[42.838s] 
+[42.838s]     /usr
+[42.838s] 
+[42.838s]   For compatibility, CMake is ignoring the variable.
+[42.838s] This warning is for project developers.  Use -Wno-dev to suppress it.
+[42.838s] [0m
+[42.918s] -- Configuring done
+[42.938s] -- Generating done
+[42.944s] -- Build files have been written to: /home/rfzhang/ROS-Carla/CSC791Project/ros-carla-bridge/build/pcl_recorder

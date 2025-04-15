@@ -1,0 +1,8 @@
+empy==3.3.4
+carla==0.9.14
+catkin_pkg==1.0.0
+lark==1.1.9
+numpy==1.21.6
+ros-humble-tf2-eigen==0.25.12
+tensorflow
+opencv-python
